@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Marcus</h1>
 <h3 align="center">Sou apaixonado em Análise de Dados no mundo digital</h3>
 
-- 🌱 Atualmente estou estudando **Python, R, SQL, Power BI, Tableau e Machine Learning**
+- 🌱 Atualmente estou estudando **React Js, React Native, Node Js, Express Js, CSS, Javascript, Typescript, React-Router-DOM, Redux e Materia UI**
 
-- 💬 Me pergunte sobre **Excel, Power BI e Python**
+- 💬 Me pergunte qualquer coisa sobre **Excel, Power BI e SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
