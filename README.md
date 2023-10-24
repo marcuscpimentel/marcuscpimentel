@@ -2,11 +2,14 @@
 <h3 align="center">Olá 👋, eu sou Marcus</h3>
 <h3 align="center">Sou apaixonado em Análise de Dados no mundo digital</h3>
 
-- 💬 **Me pergunte qualquer coisa sobre**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="15" height="15"/> **Excel**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" width="15" height="15"/> **Power BI** - Certificação Oficial Microsoft
 
-- 🌱 Possuo pós-graduação em Desenvolvimento Web pelo IFSuldeMinas, e venho utilizando e me aperfeiçoando nas seguintes tecnologias:
+💬 **Me pergunte qualquer coisa sobre**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="15" height="15"/> Excel
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" width="15" height="15"/> Power BI - Possuo certificação oficial Microsoft
+
+
+
+🌱 Pós-graduado em Desenvolvimento Web pelo IFSuldeMinas, e venho utilizando e me aperfeiçoando nas seguintes tecnologias:
 
 **Frontend**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" width="15" height="15"/> React Js / React Native
