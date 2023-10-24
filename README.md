@@ -13,9 +13,9 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jest/jest-plain.svg" width="15" height="15"/> Jest
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redux/redux-original.svg" width="15" height="15"/> Redux
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/materialui/materialui-original.svg" width="15" height="15"/> Material Ui
-- React Native Paper
-- React-Router-DOM
-- React-Navigation
+- <img src="https://play-lh.googleusercontent.com/qE5usAL3g-iQtY20QtD3zQpOunMZxWciox78iwKSDwKi_6dX6fUK6iU1--xeaUwuhw" width="15" height="15"/> React Native Paper
+- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---xCsVK0j--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://reacttraining.com/images/blog/reach-react-router-future.png" width="15" height="15"/> React-Router-DOM
+- <img src="https://reactnavigation.org/img/spiro.svg" width="15" height="15"/> React-Navigation
 
 **Backend**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" width="15" height="15"/> Node Js
@@ -28,7 +28,7 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" width="15" height="15"/> Git
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" width="15" height="15"/> Docker
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/digitalocean/digitalocean-original.svg" width="15" height="15"/> Digital Ocean
-- N8N (Nodemation)
+- <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/N8N-2WQW-MeQB.png" width="15" height="15"/> N8N (Nodemation)
 - YUP
 
 <h3 align="left">Entre em contato:</h3>
