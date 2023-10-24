@@ -6,8 +6,8 @@
 💬 **Me pergunte qualquer coisa sobre**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/100px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="15" height="15"/> Excel
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/1200px-Power_bi_logo_black.svg.png" width="15" height="15"/> Power BI - Possuo certificação oficial Microsoft
-
-
+<br>
+<br>
 
 🌱 Pós-graduado em Desenvolvimento Web pelo IFSuldeMinas, e venho utilizando e me aperfeiçoando nas seguintes tecnologias:
 
@@ -35,7 +35,7 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/digitalocean/digitalocean-original.svg" width="15" height="15"/> Digital Ocean
 - <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/N8N-2WQW-MeQB.png" width="15" height="15"/> N8N (Nodemation)
 - YUP
-
+<br>
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcus-pimentel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcus-pimentel/" height="30" width="40" /></a>
