@@ -8,7 +8,7 @@
 <br>
 
 
-🌱 **Pós-graduado em Desenvolvimento Web pelo IFSuldeMinas, e venho utilizando e me aperfeiçoando nas seguintes tecnologias:**
+🌱 **Pós-graduado em Desenvolvimento Web pelo IFSuldeMinas, venho utilizando e me aperfeiçoando nas seguintes tecnologias:**
 
 **Frontend**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" width="15" height="15"/> React Js / React Native
