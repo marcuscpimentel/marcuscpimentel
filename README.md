@@ -23,7 +23,11 @@
 **Backend**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" width="15" height="15"/> Node Js
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original.svg" width="15" height="15"/> Express Js
+- <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" width="15" height="15"/> Hapi Js
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg" width="15" height="15"/> MongoDB
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="15" height="15"/> Mongoose
+- <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="15" height="15"/> Postgres
+- <img src="https://raw.githubusercontent.com/sequelize/sequelize/e632284c67d9c1eefd42714805354b9153932e9b/logo.svg" width="15" height="15"/> Sequelize
 
 **Outras**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="15" height="15"/> Javascript
