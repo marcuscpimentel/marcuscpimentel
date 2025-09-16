@@ -26,8 +26,8 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" width="15" height="15"/> Typescript
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" width="15" height="15"/> Git
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" width="15" height="15"/> Docker
-- <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/N8N-2WQW-MeQB.png" width="15" height="15"/> N8N (Nodemation)
-- YUP
+- <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/N8N-2WQW-MeQB.png" width="15" height="15"/> N8N 
+
 <br>
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
