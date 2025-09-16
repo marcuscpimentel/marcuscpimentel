@@ -11,9 +11,6 @@
 
 **Frontend**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" width="15" height="15"/> React Js / React Native
-- <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" width="15" height="15"/> CSS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg" width="15" height="15"/> SASS
-- <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jest/jest-plain.svg" width="15" height="15"/> Jest
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redux/redux-original.svg" width="15" height="15"/> Redux
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/materialui/materialui-original.svg" width="15" height="15"/> Material Ui
 - <img src="https://play-lh.googleusercontent.com/qE5usAL3g-iQtY20QtD3zQpOunMZxWciox78iwKSDwKi_6dX6fUK6iU1--xeaUwuhw" width="15" height="15"/> React Native Paper
@@ -23,18 +20,13 @@
 **Backend**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" width="15" height="15"/> Node Js
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original.svg" width="15" height="15"/> Express Js
-- <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" width="15" height="15"/> Hapi Js
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg" width="15" height="15"/> MongoDB
-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" width="15" height="15"/> Mongoose
 - <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="15" height="15"/> Postgres
-- <img src="https://raw.githubusercontent.com/sequelize/sequelize/e632284c67d9c1eefd42714805354b9153932e9b/logo.svg" width="15" height="15"/> Sequelize
 
 **Outras**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" width="15" height="15"/> Javascript
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" width="15" height="15"/> Typescript
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/github/github-original.svg" width="15" height="15"/> Git
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" width="15" height="15"/> Docker
-- <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/digitalocean/digitalocean-original.svg" width="15" height="15"/> Digital Ocean
 - <img src="https://cf.appdrag.com/dashboard-openvm-clo-b2d42c/uploads/N8N-2WQW-MeQB.png" width="15" height="15"/> N8N (Nodemation)
 - YUP
 <br>
