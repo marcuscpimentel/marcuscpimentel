@@ -11,17 +11,16 @@
 
 **Frontend**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" width="15" height="15"/> React Js / React Native
-- <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redux/redux-original.svg" width="15" height="15"/> Redux
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2quKRX2nRdpil6la8wQNSyyPWo9rJ5PyAuA&s" width="15" height="15"/> NextJs
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/materialui/materialui-original.svg" width="15" height="15"/> Material Ui
-- <img src="https://play-lh.googleusercontent.com/qE5usAL3g-iQtY20QtD3zQpOunMZxWciox78iwKSDwKi_6dX6fUK6iU1--xeaUwuhw" width="15" height="15"/> React Native Paper
-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s---xCsVK0j--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://reacttraining.com/images/blog/reach-react-router-future.png" width="15" height="15"/> React-Router-DOM
-- <img src="https://reactnavigation.org/img/spiro.svg" width="15" height="15"/> React-Navigation
+- <img src="https://reactrouter.com/assets/icons-DI88m4Yf.svg" width="15" height="15"/> React-Router-DOM / React-Navigation
+- <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redux/redux-original.svg" width="15" height="15"/> Redux
 
 **Backend**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" width="15" height="15"/> Node Js
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original.svg" width="15" height="15"/> Express Js
-- <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg" width="15" height="15"/> MongoDB
-- <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="15" height="15"/> Postgres
+- <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" width="15" height="15"/> Nest Js
+- <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg" width="15" height="15"/> <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="15" height="15"/> MongoDB / Postgres
 
 **Outras**
 - <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" width="15" height="15"/> Typescript
